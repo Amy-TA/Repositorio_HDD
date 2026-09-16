@@ -14,3 +14,5 @@ class Estudiante(Persona):
 # estudiante1 = Estudiante("Sandra Villar", 22, "Python")
 # print(estudiante1)
 # # Programador8Jean
+
+#NUEVA VERSION 2.0
