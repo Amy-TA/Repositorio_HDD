@@ -1,7 +1,7 @@
 from clase_persona import Persona
 
 class Estudiante(Persona):
-    curso = ''
+    curso = null
 
     def __init__(self, nombre, edad, curso, universidad):
         super().__init__(nombre, edad)
@@ -13,3 +13,4 @@ class Estudiante(Persona):
 
 # estudiante1 = Estudiante("Sandra Villar", 22, "Python")
 # print(estudiante1)
+# Programador 7 Valeria Godoy
